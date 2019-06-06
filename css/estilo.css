@@ -9,3 +9,15 @@
     display: flex;
     align-items: center;
 }
+.cajatitulo{
+	height: 40px;
+	border:2px solid #0AD6B1;
+	margin-top: 25px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	padding-left: 5px;
+	display: flex;
+	align-items: center;
+}
