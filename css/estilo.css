@@ -20,4 +20,13 @@
 	padding-left: 5px;
 	display: flex;
 	align-items: center;
+.cajaparrafo{
+	height: 170px;
+	margin-top: 15px;
+	border:2px dotted #76E9E4;
+	border:5px dotten;
+	border-bottom-right-radius: 60px;
+	display: flex;
+	align-items: center;
+}
 }
