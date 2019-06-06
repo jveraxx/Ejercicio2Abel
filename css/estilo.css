@@ -1,0 +1,11 @@
+.caja1{
+	margin:auto;
+	height: 50px;
+	background-color: green;
+	color:#FFFFFF;
+	border:2px solid #0AD6B1;
+	margin: 3px;
+	padding: 5px;
+    display: flex;
+    align-items: center;
+}
